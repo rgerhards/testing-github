@@ -1,5 +1,4 @@
-<!--
-PLEASE DELETE THIS NOTICE AFTER YOU HAVE READ IT - thanks!
+<!-- PLEASE DELETE THIS NOTICE AFTER YOU HAVE READ IT - thanks!
 
 LEGAL GDPR NOTICE:
 According to the European data protection laws (GDPR), we would like to make you
